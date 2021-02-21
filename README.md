@@ -1,4 +1,4 @@
-# [lumina.works](https://lumina.works)
+# [lumina.works]
 
 A website that lists all of my projects! I'm basing it off my girlfriend's website, and she's helping run me through the creation and maintaining of it <3
 
