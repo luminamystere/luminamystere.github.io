@@ -7,3 +7,7 @@ body {
     color: white;
     text-shadow: #000000;
 }
+
+a:visited {
+    color: #9999ff;
+}
